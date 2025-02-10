@@ -1,7 +1,5 @@
 # MPC vs LQR
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python)  
-![PyBullet](https://img.shields.io/badge/PyBullet-Simulation-orange?style=flat-square)
-![License](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey?style=flat-square)  
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python) ![PyBullet](https://img.shields.io/badge/PyBullet-Simulation-orange?style=flat-square) ![License](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey?style=flat-square)  
 
 Includes a Pybullet simulation to demo 2 controllers. Both cars follow smooth reference paths visualized in yellow, with real-time debug lines indicating their positions. As the cars navigate the track, the black car’s trajectory is plotted in red lines, and the white car’s trajectory in blue lines, demonstrating smooth and precise path tracking.
 
